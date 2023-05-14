@@ -1,5 +1,5 @@
 {
-  "name": "cli-node-quiz",
+  "name": "node-cli-quiz",
   "version": "1.0.0",
   "description": "A cli quiz developed using rich npm packages.",
   "main": "index.js",
