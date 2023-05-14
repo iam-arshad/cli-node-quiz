@@ -6,13 +6,11 @@
   "type":"module",
   "bin": "./index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node .",
-    "link": "npm link"
+    "start": "node ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iam-arshad/cli-node-quiz.git"
+    "url": "https://github.com/iam-arshad/node-cli-quiz"
   },
   "keywords": [
     "node-cli",
@@ -21,9 +19,9 @@
   "author": "Arshad",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iam-arshad/cli-node-quiz/issues"
+    "url": "https://github.com/iam-arshad/node-cli-quiz/issues"
   },
-  "homepage": "https://github.com/iam-arshad/cli-node-quiz#readme",
+  "homepage": "https://github.com/iam-arshad/node-cli-quiz#readme",
   "dependencies": {
     "chalk": "^5.2.0",
     "chalk-animation": "^2.0.3",
