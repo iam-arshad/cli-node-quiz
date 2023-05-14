@@ -4,11 +4,11 @@
   "description": "A cli quiz developed using rich npm packages.",
   "main": "index.js",
   "type":"module",
-  "bin": {
-    "cli-node-quiz": "./index.js"
-  },
+  "bin": "./index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "link": "npm link"
   },
   "repository": {
     "type": "git",
