@@ -1,6 +1,6 @@
 {
   "name": "node-cli-quiz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cli quiz developed using rich npm packages.",
   "main": "index.js",
   "type":"module",

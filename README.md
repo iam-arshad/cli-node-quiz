@@ -32,6 +32,11 @@ Node cli Quiz has the following features:
 - text input, radio, Multiple choice questions
 - Shows final result at the end
 
+## npm package
+
+[node-cli-quiz](https://www.npmjs.com/package/node-cli-quiz?activeTab=readme)
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -43,8 +48,8 @@ Please make sure to update tests as appropriate.
 
 ## Contact
 
-If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/iam_arshad_) or [LinkedIn](https://www.linkedin.com/in/iam-arshad/).
+If you have any questions, feel free to reach out to me on [Github](https://github.com/iam-arshad/) or [LinkedIn](https://www.linkedin.com/in/iam-arshad/).
 
 ## Future Plans
-
-I will publish this package in npm registry.
+- Add new features and functionalities to further enrich the user experience and meet evolving requirements.
+- Implement performance optimizations to enhance the overall efficiency and speed of the application.
